@@ -1,6 +1,6 @@
 days = "MON TUE WED THU FRI SAT SUN"
 months = "JAN\nFEB\nMAR\nAPR\nJUN\nJUL\nAUG\nSep\nOCT\nNOV\nDEC"
-print("here are days ",days)
+print(f"here are days {days}")
 print("here are months ", months)
 print("""There is something going on here.
 With three double quotes.

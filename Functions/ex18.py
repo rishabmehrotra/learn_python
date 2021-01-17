@@ -1,5 +1,6 @@
 #You can create a function by using the word def in Python.
 def print_two(*args):
+    print(*args)
     arg1, arg2 = args
     print("arg1  ",arg1," arg2 ",arg2)
 
